@@ -1,0 +1,5 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# Log Code: https://doit.vlsm.org/ETC/logCodes.txt
+
+ZCZC W00 20 L03 Create My Log
