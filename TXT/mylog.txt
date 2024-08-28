@@ -4,3 +4,4 @@
 
 ZCZC W00 20 L03 Create My Log
 ZCZC W00 5 L05 Download Safe Exam Browser
+ZCZC W00 15 L32 Watching basic Linux terminal commands on Youtube
