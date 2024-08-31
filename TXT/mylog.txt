@@ -2,6 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Log Code: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W00 99 L02 Attend Class on Monday
 ZCZC W00 20 L03 Create My Log
-ZCZC W00 5 L05 Download Safe Exam Browser
+ZCZC W00 99 L02 Attend Class on Wednesday
+ZCZC W00 05 L05 Download Safe Exam Browser
 ZCZC W00 15 L32 Watching basic Linux terminal commands on Youtube
+ZCZC W00 40 L05 Week00 Quiz
+ZCZC W00 10 L10 Finishing Week00 Assignments
