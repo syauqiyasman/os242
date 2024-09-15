@@ -16,3 +16,12 @@ ZCZC W01 60 L31 Install UTM, Debian
 ZCZC W01 99 L11 Assignment #01
 ZCZC W01 60 L81 Listening music
 ZCZC W01 60 L11 Finishing Week01 Assignments
+
+ZCZC W02 99 L02 Attend Class on Monday 9th September 2024
+ZCZC W02 10 L62 Backup Virtual Debian Guest
+ZCZC W02 99 L02 Attend Class on Wednesday 11th September 2024
+ZCZC W02 60 L12 Doing assignments
+ZCZC W02 50 L21 Trying Pop Quiz, scraping and string replacement
+ZCZC W02 60 L05 Studying for quiz
+ZCZC W02 10 L05 Quiz Week 02
+ZCZC W02 60 L12 Finishing Week 02 Assignments
