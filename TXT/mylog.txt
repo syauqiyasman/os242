@@ -26,3 +26,14 @@ ZCZC W02 60 L05 Studying for quiz
 ZCZC W02 10 L05 Quiz Week 02
 ZCZC W02 60 L12 Finishing Week 02 Assignments
 ZCZC W02 75 L64 Helping a friend (OS related problem)
+
+ZCZC W03 10 L62 Backup Virtual Debian Guest
+ZCZC W03 10 L62 Update Debian Guest
+ZCZC W03 99 L02 Attend Class on Wednesday 18th September 2024
+ZCZC W03 420 L98 Asdos training and workshop
+ZCZC W03 90 L13 Doing assignments
+ZCZC W03 60 L70 Studying for other courses
+ZCZC W03 99 L02 Attend Class on Monday 23rd September 2024
+ZCZC W03 90 L13 Doing assignments
+ZCZC W03 60 L64 Helping a friend (OS related problem)
+ZCZC W03 60 L12 Finishing Week 03 Assignments

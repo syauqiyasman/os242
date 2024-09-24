@@ -17,3 +17,6 @@ permalink: LINKS/
 
 * [C Tutorial](https://www.w3schools.com/c/index.php){:target="_blank"} ---
   This site contains short C programming tutorials.
+
+* [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html){:target="_blank"} ---
+  This site contains basic vi commands.
