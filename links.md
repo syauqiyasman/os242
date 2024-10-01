@@ -20,3 +20,6 @@ permalink: LINKS/
 
 * [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html){:target="_blank"} ---
   This site contains basic vi commands.
+
+* [Tar Tutorial](https://docs.alliancecan.ca/wiki/A_tutorial_on_%27tar%27){:target="_blank"} ---
+  This site contains common options of tar and usage examples.
