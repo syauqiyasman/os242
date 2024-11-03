@@ -66,3 +66,12 @@ ZCZC W06 99 L02 Attend Class on Monday 28th October 2024
 ZCZC W06 90 L05 Doing assignments
 ZCZC W06 60 L64 Helping a friend (OS related problem)
 ZCZC W06 60 L15 Finishing Week 06 Assignments
+
+ZCZC W07 10 L62 Backup Virtual Debian Guest
+ZCZC W07 10 L62 Update Debian Guest
+ZCZC W07 99 L02 Attend Class on Wednesday 30th October 2024
+ZCZC W07 90 L05 Doing assignments
+ZCZC W07 60 L05 Studying for quiz
+ZCZC W07 99 L02 Attend Class on Monday 4th november 2024
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 60 L17 Finishing Week 07 Assignments
