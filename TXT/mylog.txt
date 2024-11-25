@@ -93,3 +93,9 @@ ZCZC W09 60 L64 Helping a friend (OS related problem)
 ZCZC W09 390 L05 Doing LFS with friend
 ZCZC W09 99 L02 Attend Class on Monday 18th November 2024
 ZCZC W09 60 L18 Finishing Week 09 Assignments
+
+ZCZC W10 10 L62 Backup Virtual Debian Guest
+ZCZC W10 10 L62 Update Debian Guest
+ZCZC W10 360 L05 Doing LFS with friend #1
+ZCZC W10 360 L05 Doing LFS with friend #2
+ZCZC W10 360 L05 Doing LFS with friend #3
